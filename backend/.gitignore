@@ -1,0 +1,15 @@
+# Исключаем IDE и системные файлы
+.idea/
+.vscode/
+*.log
+*.tmp
+
+# Go build
+/bin/
+/obj/
+/dist/
+*.exe
+*.out
+
+# Кэш
+__pycache__/
